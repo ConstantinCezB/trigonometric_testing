@@ -5,7 +5,7 @@ import kotlin.math.PI
 import kotlin.math.tan
 
 class TanTest {
-    private val tanCalculator: Tan = TanStub()
+    private val tanCalculator: Tan = TanImpl()
 
     /**
      * Testing the x axis values of the unit circle
