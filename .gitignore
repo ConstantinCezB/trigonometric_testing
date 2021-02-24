@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Cos/.gradle/
+/Cos/build/
+/Sin/.gradle/
+/Sin/build/
+/Tan/.gradle/
+/Tan/build/
+/Trigonometry/.gradle/
+/Trigonometry/build/
