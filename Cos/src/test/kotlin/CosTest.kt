@@ -5,7 +5,7 @@ import kotlin.math.PI
 import kotlin.math.cos
 
 class CosTest {
-    private val cosCalculator: Cos = CosStub()
+    private val cosCalculator: Cos = CosImpl()
 
     /**
      * Testing the axis values of the unit circle
