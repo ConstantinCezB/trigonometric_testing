@@ -1,8 +1,8 @@
 class Trigonometry {
     companion object{
-        private val cos: Cos = CosStub()
-        private val sin: Sin = SinStub()
-        private val tan: Tan = TanStub()
+        private val cos: Cos = CosImpl()
+        private val sin: Sin = SinImpl()
+        private val tan: Tan = TanImpl()
 
         /**
          * methods put together from the module
